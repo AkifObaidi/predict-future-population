@@ -2,6 +2,7 @@
 Using machine learning which is trained on population records from 1950-2023 \
 The program can predict the future population.
 :smile: just input the `year` and it will predict the population Using Linear Regression
+You can check predictor.ipynb for the source code.
 ## Setup & Simple Usage:
 1. Clone the repo
 2. Open prediction.csv and write the years you want to predict
