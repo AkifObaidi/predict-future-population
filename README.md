@@ -8,4 +8,4 @@ The program can predict the future population.
 3. Open Jupyter Notebook and open the predictor.ipynb
 4. Run the code with Juypter Notebook
 5. And here you go, you can check the prediction on the prediction.csv
-##Check predictor.ipynb for the code.
+## Check predictor.ipynb for the code.
